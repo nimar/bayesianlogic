@@ -1,4 +1,5 @@
 ---
+layout: home
 # see the following for help https://github.com/jekyll/minima
 title: NET-VISA
 ---
