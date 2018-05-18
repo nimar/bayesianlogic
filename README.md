@@ -14,6 +14,17 @@ The website can then be viewed at http://localhost:4000
 ## Disqus comments
 
 Add the following to the front matter of any post that should have
-comments enabled:
+comments disabled:
 
-    comments: True
+    comments: False
+
+## TODO
+
+- 2015 - upload from local
+- 2014 - upload from local
+- 2012
+- 2011
+- 2010
+- 2009
+- 2008
+

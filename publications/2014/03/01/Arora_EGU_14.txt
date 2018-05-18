@@ -1,0 +1,35 @@
+A Fusion Model of Seismic and Hydro-Acoustic Propagation for
+Treaty Monitoring
+
+We present an extension to NET-VISA (Network Processing Vertically Integrated
+Seismic Analysis), which is a probabilistic generative model of the propagation
+of seismic waves and their detection on a global scale, to incorporate
+hydro-acoustic data from the IMS (International Monitoring System) network. The
+new model includes the coupling of seismic waves into the ocean's SOFAR
+channel, as well as the propagation of hydro-acoustic waves from underwater
+explosions.
+
+The generative model is described in terms of multiple possible hypotheses --
+seismic-to-hydro-acoustic, under-water explosion, other noise sources such as
+whales singing or icebergs breaking up -- that could lead to signal
+detections. We decompose each hypothesis into conditional probability
+distributions that are carefully analyzed and calibrated. These distributions
+include ones for detection probabilities, blockage in the SOFAR channel
+(including diffraction, refraction, and reflection around obstacles), energy
+attenuation, and other features of the resulting waveforms.
+
+We present a study of the various features that are extracted from the
+hydro-acoustic waveforms, and their correlations with each other as well the
+source of the energy.
+
+Additionally, an inference algorithm is presented that concurrently infers the
+seismic and under-water events, and associates all arrivals (aka triggers),
+both from seismic and hydro-acoustic stations, to the appropriate event, and
+labels the path taken by the wave.
+
+Finally, our results demonstrate that this fusion of seismic and hydro-acoustic
+data leads to very good performance. A majority of the under-water events that
+IDC (International Data Center) analysts built in 2010 are correctly located,
+and the arrivals that correspond to seismic-to-hydroacoustic coupling, the T
+phases, are mostly correctly identified. There is no loss in the accuracy of
+seismic events, in fact, there is a slight overall improvement.
