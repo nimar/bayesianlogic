@@ -6,7 +6,9 @@ categories: publications
 ---
 
 Veith Clawson amplitude correction curves were added to NET-VISA to
-allow for the amplitude prediction to be grounded in geophysics.
+allow for the amplitude prediction to be grounded in
+geophysics. Presented in AGU 2013.
+
 
 [Abstract](Arora_AGU_13.pdf) [Poster](Arora_AGU_13.pptx)
 

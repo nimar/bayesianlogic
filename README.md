@@ -22,7 +22,6 @@ comments disabled:
 
 - 2015 - upload from local
 - 2014 - upload from local
-- 2012
 - 2011
 - 2010
 - 2009
