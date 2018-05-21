@@ -18,11 +18,5 @@ comments disabled:
 
     comments: False
 
-## TODO
 
-- 2015 - upload from local
-- 2014 - upload from local
-- 2010
-- 2009
-- 2008
 

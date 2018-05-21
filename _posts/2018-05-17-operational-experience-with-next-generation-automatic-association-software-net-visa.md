@@ -6,7 +6,7 @@ author: Ronan Le Bras, Nimar Arora, Noriyuki Kushida, Pierrick Mialle, and Elena
 ---
 
 The ongoing progress with the deployment of NET-VISA at the IDC was presented
-at the SSA 2018 meeting.
+at the Seismological Society of America (SSA) 2018 meeting.
 
 [Presentation](LeBras_SSA_2018.pdf).
 
