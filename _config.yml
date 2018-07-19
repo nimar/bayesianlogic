@@ -4,7 +4,7 @@ description: Our mission is to build Bayesian models for complex physical domain
 email: info@bayesianlogic.com
 author: Nimar Arora, Stuart Russell
 google_analytics: UA-6898706-3
-disqus:
-  shortname: www-bayesianlogic-com
+#disqus:
+#  shortname: www-bayesianlogic-com
 show_excerpts: true
 
