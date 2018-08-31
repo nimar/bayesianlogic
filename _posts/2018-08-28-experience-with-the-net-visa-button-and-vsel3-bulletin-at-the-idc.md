@@ -5,7 +5,6 @@ categories: publications
 author: Ronan Le Bras, Elena Tomuta, Pierrick Mialle, Noriyuki Kushida and Nimar Arora.
 ---
 
-**To be presented in the WEG (Waveform Expert Group) August 2018.**
+Presented in the WEG (Waveform Expert Group), August 2018.
 
 [Presentation](LeBras_WEG_Aug_2018.pdf).
-
